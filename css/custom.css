@@ -37,3 +37,7 @@ h2 {
     font-size: 3rem !important;
     margin-bottom:30px;
 }
+
+.border-white{
+    border-top: 2px solid white;
+}
