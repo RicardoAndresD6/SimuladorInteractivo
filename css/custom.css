@@ -26,18 +26,26 @@ header {
 }
 h1{
     font-family: 'Raleway', sans-serif;
-    font-weight: 100;
+    font-weight: 400;
     color: white;
     font-size: 3.5rem !important;
 }
 h2 {
     font-family: 'Raleway', sans-serif;
-    font-weight: 200;
-    color:#004e92;
+    font-weight: 400;
+    color: #2f83cd;
     font-size: 3rem !important;
     margin-bottom:30px;
 }
 
 .border-white{
     border-top: 2px solid white;
+}
+
+.fontGrande{
+    font-size: 3.5rem !important;
+}
+
+.textBlue{
+    color:#004e92;
 }
